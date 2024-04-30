@@ -1,2 +1,4 @@
 
 This is a coding file that is currently not being used but still have to commit.
+
+This program was really easy. I like it
